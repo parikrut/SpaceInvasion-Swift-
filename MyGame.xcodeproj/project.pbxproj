@@ -7,12 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AE2309B2254669DE00B01225 /* spark.png in Resources */ = {isa = PBXBuildFile; fileRef = AE2309B1254669DD00B01225 /* spark.png */; };
 		AE25C8112544EDD800910467 /* enemyShip.png in Resources */ = {isa = PBXBuildFile; fileRef = AE25C80B2544EDD800910467 /* enemyShip.png */; };
 		AE25C8122544EDD800910467 /* explosition.png in Resources */ = {isa = PBXBuildFile; fileRef = AE25C80C2544EDD800910467 /* explosition.png */; };
 		AE25C8132544EDD800910467 /* playerShip.png in Resources */ = {isa = PBXBuildFile; fileRef = AE25C80D2544EDD800910467 /* playerShip.png */; };
 		AE25C8142544EDD800910467 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = AE25C80E2544EDD800910467 /* background.png */; };
 		AE25C8162544EDD800910467 /* bullet.png in Resources */ = {isa = PBXBuildFile; fileRef = AE25C8102544EDD800910467 /* bullet.png */; };
-		AE38829A2546128100F77586 /* spark.png in Resources */ = {isa = PBXBuildFile; fileRef = AE3882992546128100F77586 /* spark.png */; };
 		AE38829C25463A3A00F77586 /* GameOverScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE38829B25463A3A00F77586 /* GameOverScene.swift */; };
 		AE38829E25464FA300F77586 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = AE38829D25464FA300F77586 /* GameScene.sks */; };
 		AEA9D1B42543B266008D9147 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEA9D1B32543B266008D9147 /* AppDelegate.swift */; };
@@ -25,12 +25,12 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AE2309B1254669DD00B01225 /* spark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = spark.png; path = ../../../../../Desktop/spark.png; sourceTree = "<group>"; };
 		AE25C80B2544EDD800910467 /* enemyShip.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = enemyShip.png; sourceTree = "<group>"; };
 		AE25C80C2544EDD800910467 /* explosition.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = explosition.png; sourceTree = "<group>"; };
 		AE25C80D2544EDD800910467 /* playerShip.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = playerShip.png; sourceTree = "<group>"; };
 		AE25C80E2544EDD800910467 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
 		AE25C8102544EDD800910467 /* bullet.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bullet.png; sourceTree = "<group>"; };
-		AE3882992546128100F77586 /* spark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = spark.png; path = ../../../../../Downloads/spark.png; sourceTree = "<group>"; };
 		AE38829B25463A3A00F77586 /* GameOverScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameOverScene.swift; sourceTree = "<group>"; };
 		AE38829D25464FA300F77586 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
 		AEA9D1B02543B266008D9147 /* MyGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -88,7 +88,7 @@
 		AEA9D1CB2543B272008D9147 /* Images */ = {
 			isa = PBXGroup;
 			children = (
-				AE3882992546128100F77586 /* spark.png */,
+				AE2309B1254669DD00B01225 /* spark.png */,
 				AE25C80E2544EDD800910467 /* background.png */,
 				AE25C8102544EDD800910467 /* bullet.png */,
 				AE25C80B2544EDD800910467 /* enemyShip.png */,
@@ -192,7 +192,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AE38829A2546128100F77586 /* spark.png in Resources */,
+				AE2309B2254669DE00B01225 /* spark.png in Resources */,
 				AE25C8122544EDD800910467 /* explosition.png in Resources */,
 				AEA9D1BF2543B266008D9147 /* Main.storyboard in Resources */,
 				AE38829E25464FA300F77586 /* GameScene.sks in Resources */,
